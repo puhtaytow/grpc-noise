@@ -1,8 +1,3 @@
 module github.com/ElPotato/grpc-noise
 
 go 1.13
-
-require (
-	golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa // indirect
-	google.golang.org/grpc v1.27.0 // indirect
-)
