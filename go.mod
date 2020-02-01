@@ -1,3 +1,3 @@
-module github.com/ElPotato/grpc-noise
+module github.com/elpotato/grpc-noise
 
 go 1.13
